@@ -11,25 +11,23 @@
   <li>👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
   <li>🔭 I’m currently learning <strong>JavaScript</strong>. </li>
   <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
-<li>🎉 Fun Fact : If I could have any superpower, it would be Time manipulation</li>
+<li>🎉 Fun Fact : If I could have any superpower, it would be invisibility</li>
 </ul>
 
 <h2>Connect with me</h3>
 <p>
   <a href="https://twitter.com/jacobxavier_/"><img src="https://img.shields.io/badge/-jacobxavier_-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-  <a href="mailto:mr.francisjacob@gmail.com"><img src="https://img.shields.io/badge/-Eniola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
+  <a href="mailto:mr.francisjacob@gmail.com"><img src="https://img.shields.io/badge/-Francis%20Jacob-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
 
 
 <h2> My Tools </h2>
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" alt="Tailwind" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Netlify" height="40" width="40"/>
-        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  height="40" width="40"/>        
 </p>
 
 
-<p> Thanks for visiting my Github Profile❤️ </p># Jacob-Francis
+<p> Thanks for visiting my Github Profile ❤️ </p>
