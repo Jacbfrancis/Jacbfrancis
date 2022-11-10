@@ -11,7 +11,7 @@
   <li>👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
   <li>🔭 I’m currently learning <strong>JavaScript</strong>. </li>
   <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
-<li>🎉 Fun Fact : If I could have any superpower, it would be invisibility</li>
+<li>🎉 Fun Fact : I'm also a Graphic Designer </li>
 </ul>
 
 <h2>Connect with me</h3>
