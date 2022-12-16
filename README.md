@@ -1,17 +1,16 @@
 
 <h2>Hey there 👋, I'm Francis Jacob</h2>
-<p>I am a Web Developer</p>
 
 
 
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>✨ Turning ideas into real life products. </li>
   <li>👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
   <li>🔭 I’m currently learning <strong>JavaScript</strong>. </li>
-  <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
-<li>🎉 Fun Fact : I'm also a Graphic Designer </li>
+  <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
+  <li>🎉 Fun Fact : I'm also a Graphic Designer.</li>
+  <li>✨ Making my Dreams a Reality. </li>
 </ul>
 
 <h2>Connect with me</h3>
@@ -36,4 +35,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jacbfrancis&show_icons=true&hide_border=true" alt="Stats" />
 
-<p> Thanks for visiting my Github Profile. ❤️ </p>
+<p> Thanks for visiting my Github Profile. </p>
