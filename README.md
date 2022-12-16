@@ -1,5 +1,5 @@
 
-<h2>Hey Fam👋❤️, I'm Francis Jacob</h2>
+<h2>Hey there 👋, I'm Francis Jacob</h2>
 <p>I am a Web Developer</p>
 
 
