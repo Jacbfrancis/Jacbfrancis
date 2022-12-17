@@ -10,7 +10,7 @@
   <li>🔭 I’m currently learning <strong>JavaScript</strong>. </li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
   <li>🎉 Fun Fact : I'm also a Graphic Designer.</li>
-  <li>✨ Making my Dreams a Reality. </li>
+  <li>✨ Turning Dreams to Reality.</li>
 </ul>
 
 <h2>Connect with me</h3>
@@ -35,4 +35,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jacbfrancis&show_icons=true&hide_border=true" alt="Stats" />
 
-<p> Thanks for visiting my Github Profile. </p>
+<p> Thanks for visiting my Github Profile. ♥️</p>
