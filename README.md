@@ -7,7 +7,7 @@
 
 <ul>
   <li>👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
-  <li>🔭 I’m currently learning <strong>JavaScript</strong>. </li>
+  <li>🔭 I am currently learning <strong>JavaScript</strong>. </li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
   <li>🎉 Fun Fact : I'm also a Graphic Designer.</li>
   <li>✨ Turning Dreams to Reality.</li>
