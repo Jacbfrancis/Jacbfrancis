@@ -8,8 +8,8 @@
 <ul>
   <li>👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
   <li>🔭 I am currently learning <strong>JavaScript</strong>.</li>
-  <li>💬 message me about anything <strong>Web Development</strong>.</li>
-  <li>🎉 Fun Fact : I'm also a Graphic Designer.</li>
+  <li>💬 Message me about anything <strong>Web Development</strong>.</li>
+  <li>🎉 Fun Fact : I'm also Graphic Designer.</li>
   <li>✨ Turning Dreams to Reality.</li>
 </ul>
 
