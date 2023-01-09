@@ -16,7 +16,7 @@
 <h2>Connect with me</h3>
 <p>
   <a href="https://twitter.com/jacobxavier_/"><img src="https://img.shields.io/badge/-jacobxavier_-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-  <a href="mailto:mr.francisjacob@gmail.com"><img src="https://img.shields.io/badge/-Francis%20Jacob-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
+  <a href="mailto:dev.francisjacob@gmail.com"><img src="https://img.shields.io/badge/-Francis%20Jacob-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
 
 
 <h2> My Tools </h2>
