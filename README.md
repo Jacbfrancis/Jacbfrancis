@@ -6,14 +6,13 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
-  <li>🔭 I am currently learning <strong>JavaScript</strong>.</li>
-  <li>💬 Message me about anything <strong>Web Development</strong>.</li>
-  <li>🎉 Fun Fact : I'm also Graphic Designer.</li>
-  <li>✨ Turning Dreams to Reality.</li>
+  <li> 👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
+  <li> 🔭 I am currently learning Javascript.</li>
+  <li> ✉️  You can contact me at dev.francisjacob@gmail.comm</li>
+  <li> 🤝  I'm open to collaborating on interesting projects</li>
 </ul>
 
-<h2>Connect with me</h3>
+<h2>Socials </h3>
 <p>
   <a href="https://twitter.com/jacobxavier_/"><img src="https://img.shields.io/badge/-jacobxavier_-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
   <a href="mailto:dev.francisjacob@gmail.com"><img src="https://img.shields.io/badge/-Francis%20Jacob-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
