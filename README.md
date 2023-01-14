@@ -3,12 +3,12 @@
 
 
 
-<h2>⚡️ About Me</h2>
+<h2>Frontend Web Developer</h2>
 
 <ul>
   <li> 👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
   <li> 🔭 I am currently learning Javascript.</li>
-  <li> ✉️  You can contact me at dev.francisjacob@gmail.com</li>
+  <li> ✉️  Message me on anything Web Development</li>
   <li> 🤝  I'm open to collaborating on interesting projects</li>
 </ul>
 
@@ -18,7 +18,7 @@
   <a href="mailto:dev.francisjacob@gmail.com"><img src="https://img.shields.io/badge/-Francis%20Jacob-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
 
 
-<h2> My Tools </h2>
+<h2> Skills </h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
