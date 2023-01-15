@@ -1,5 +1,6 @@
 
-<h2>Hey there 👋, I'm Francis Jacob</h2>
+Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jacob
+================================================================================================================================
 
 
 
@@ -8,14 +9,14 @@
 <ul>
   <li> 👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
   <li> 🔭 I am currently learning Javascript.</li>
-  <li> ✉️  Message me on anything Web Development</li>
+*   ✉️  You can contact me at [ezekielabolade@gmail.com](mailto:ezekielabolade@gmail.com)
   <li> 🤝  I'm open to collaborating on interesting projects</li>
 </ul>
 
 <h2>Socials </h3>
 <p>
-  <a href="https://twitter.com/jacobxavier_/"><img src="https://img.shields.io/badge/-jacobxavier_-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-  <a href="mailto:dev.francisjacob@gmail.com"><img src="https://img.shields.io/badge/-Francis%20Jacob-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
+  <a href="https://www.github.com/Jacbfrancis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/jacobxavier_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 
 <h2> Skills </h2>
