@@ -9,7 +9,7 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 <ul>
   <li> 👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
   <li> 🔭 I am currently learning Javascript.</li>
-*   ✉️  You can contact me at [ezekielabolade@gmail.com](mailto:ezekielabolade@gmail.com)
+  <li> ✉️  Message me on anything web developmet</li>
   <li> 🤝  I'm open to collaborating on interesting projects</li>
 </ul>
 
