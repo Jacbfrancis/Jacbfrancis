@@ -6,11 +6,10 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 <h2>Frontend Web Developer</h2>
 
-<ul>
-  <li> 👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.</li>
-  <li> 🔭 I am currently learning Javascript.</li>
-  <li> ✉️  Message me on anything web developmet</li>
-  <li> 🤝  I am open to collaborating on intresting projects</li>
+  * 👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.
+  * 🔭 I am currently learning Javascript.
+  * ✉️ You can contact me at [dev.francisjacob@gmail.com](mailto:dev.francisjacob@gmail.com)
+  * 🤝 I am open to collaborating on intresting projects.
 </ul>
 
 <h2>Socials </h3>
