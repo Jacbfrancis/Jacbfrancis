@@ -31,6 +31,7 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacbfrancis&show_icons=true&locale=en&layout=compact" alt="Francis-jacob" /></p> -->
 <h2> My Stats </h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacbfrancis&" alt="Francis-Jacob" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jacbfrancis&show_icons=true&locale=en&layout=compact" alt="Jacbfrancis" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jacbfrancis&show_icons=true&hide_border=true" alt="Stats" />
 
