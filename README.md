@@ -7,7 +7,7 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 <h2>Frontend Web Developer</h2>
 
   * 👨‍💻 I work with <strong>HTML, CSS, Bootstrap and Tailwind</strong>.
-  * 🔭 I am currently learning Javascript.
+  * 📚 I am currently learning Javascript.
   * ✉️ You can contact me at [dev.francisjacob@gmail.com](mailto:dev.francisjacob@gmail.com)
   * 🤝 I am open to collaborating on intresting projects.
 </ul>
@@ -35,4 +35,4 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jacbfrancis&show_icons=true&hide_border=true" alt="Stats" />
 
-<p> Thanks for visiting my Github Profile. ♥️</p>
+<p> Thanks for visiting my Github Profile. 🎯</p>
