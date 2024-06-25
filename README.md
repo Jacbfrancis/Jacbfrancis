@@ -6,9 +6,8 @@
 <a href="https://www.linkedin.com/in/francis-jacob-7330092a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="Linkedin"/></a>
 <a href="https://x.com/jacobxavier_"><img src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=flat" alt="Twitter"/></a>
 
-I am a Software developer and aspiring to be a Blockchain developer. At the moment, I am more focused on building backend projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
+I am a dedicated frontend engineer with a strong passion for continuous improvement and professional development. I am committed to advancing my skills and expertise to deliver high-quality, innovative solutions.
 
-- 🌱 I’m a **Frontend Engineer**
 - 📫 You can contact me at [dev.francisjacob@gmail.com](mailto:dev.francisjacob@gmail.com)
 - 📁 Check out my portfolio [coming.soon](#)
 - 🤝 I’m currently open for: `a Frontend Engineer role`.
@@ -23,8 +22,3 @@ I am a Software developer and aspiring to be a Blockchain developer. At the mome
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-### Github Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajman01&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="rajman01" />
