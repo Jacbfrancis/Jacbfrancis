@@ -10,7 +10,7 @@ I am a dedicated frontend engineer with a strong passion for continuous improvem
 
 - 📫 You can contact me at [dev.francisjacob@gmail.com](mailto:dev.francisjacob@gmail.com)
 - 📁 Check out my portfolio. [coming.soon](#)
-- 🤝 I’m currently open for: `a Frontend Engineer role`
+- 🤝 I’m currently open for: `a Frontend Engineer role` 
 
 ### Tools & Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,3 +22,4 @@ I am a dedicated frontend engineer with a strong passion for continuous improvem
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
