@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hey!+👋;+I'm+Jacob+!; " />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hey!+👋;+I'm+Jacob+!;" />
 </h1>
 
 <h3 align="center"> FRONTEND DEVELOPER </h3>
@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>
-    I am a dedicated frontend engineer with a strong passion for continuous improvement and professional development. I am committed to advancing my skills and expertise to deliver high-quality, innovative solutions. 
+    I am a dedicated frontend engineer with a strong passion for continuous improvement and professional development. I am committed to advancing my skills and expertise to deliver high-quality, innovative solutions.
   </p>
   
   <br/>
