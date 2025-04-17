@@ -25,7 +25,7 @@
 <div align="center">
   <a href="mailto:dev.francisjacob@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/francis-jacob-7330092a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="Linkedin"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-FF991C?logo=linkedin&logoColor=fff" alt="Portfolio"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-FF991C?logo=linkedin&logoColor=fff" alt="Portfolio"/></a> 
 </div>
 
 <hr/>
