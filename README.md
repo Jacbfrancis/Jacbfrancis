@@ -19,7 +19,7 @@
   
   🤝 I’m currently open for: `a Frontend Engineer role` 
   
-</div>
+</div> 
 
 
 <div align="center">
