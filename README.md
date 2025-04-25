@@ -13,7 +13,7 @@
   
   <br/>
 
-  📫 You can contact me at [dev.francisjacob@gmail.com](mailto:dev.francisjacob@gmail.com) 
+  📫 You can contact me at [dev.francisjacob@gmail.com](mailto:dev.francisjacob@gmail.com)
   
   📁 Check out my portfolio. [coming.soon](#) 
   
