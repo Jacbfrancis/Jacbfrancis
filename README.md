@@ -17,7 +17,7 @@
   
   📁 Check out my portfolio. [coming.soon](#) 
   
-  🤝 I’m currently open for: `a Frontend Engineer role` 
+  🤝 I’m currently open for: `a Frontend Engineer role`
   
 </div>
 
