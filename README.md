@@ -15,7 +15,7 @@
 
   📫 You can contact me at [dev.francisjacob@gmail.com](mailto:dev.francisjacob@gmail.com)
   
-  📁 Check out my portfolio. [coming.soon](#) 
+  📁 Check out my portfolio. [coming.soon](#)
   
   🤝 I’m currently open for: `a Frontend Engineer role`
   
