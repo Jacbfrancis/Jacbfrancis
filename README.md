@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>
-    I am a dedicated frontend engineer with a strong passion for continuous improvement and professional development. I am committed to advancing my skills and expertise to deliver high-quality, innovative solutions. 
+    I am a frontend engineer with a strong passion for continuous improvement and professional development. I am committed to advancing my skills and expertise to deliver high-quality, innovative solutions. 
   </p>
   
   <br/> 
