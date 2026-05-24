@@ -2,22 +2,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hey!+👋;+I'm+Jacob+!;" />
 </h1>
 
-<h3 align="center">FRONTEND DEVELOPER</h3>
+<h3 align="center">SOFTWARE DEVELOPER</h3>
 
 <br/>
 
 <div align="center">
   <p>
-    I am a frontend engineer with a strong passion for continuous improvement and professional development. I am committed to advancing my skills and expertise to deliver high-quality, innovative solutions. 
+    I am a software developer with a strong passion for continuous improvement and professional development. I am committed to advancing my skills and expertise to deliver high-quality, innovative solutions. 
   </p>
   
   <br/> 
 
   📫 You can contact me at [dev.francisjacob@gmail.com](mailto:dev.francisjacob@gmail.com)
   
-  📁 Check out my portfolio. [coming.soon](#)
+  📁 Check out my [portfolio](https://francisjacob.netlify.app)
   
-  🤝 I’m currently open for: `a Frontend Engineer role`
+  🤝 I’m currently open for: `a Software Developer role`
   
 </div>
 
@@ -25,7 +25,7 @@
 <div align="center">
   <a href="mailto:dev.francisjacob@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/francis-jacob-7330092a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="Linkedin"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-FF991C?logo=linkedin&logoColor=fff" alt="Portfolio"/></a> 
+  <a href="https://francisjacob.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF991C?logo=linkedin&logoColor=fff" alt="Portfolio"/></a> 
 </div>
 
 <hr/>
@@ -43,6 +43,7 @@
   ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
   ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=fff)
+  ![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
 
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
