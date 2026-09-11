@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hey!+👋;+I'm+Jacob+!;" />
 </h1>
 
-<h3 align="center">SOFTWARE DEVELOPER</h3>
+<h3 align="center">SOFTWARE DEVELOPER</h3> 
 
 <br/>
 
