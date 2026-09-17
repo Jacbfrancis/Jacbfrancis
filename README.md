@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hey!+👋;+I'm+Jacob+!;" />
 </h1>
 
-<h3 align="center">SOFTWARE DEVELOPER</h3> 
+<h3 align="center">SOFTWARE DEVELOPER</h3>
 
 <br/>
 
@@ -11,7 +11,7 @@
     I am a software developer with a strong passion for continuous improvement and professional development. I am committed to advancing my skills and expertise to deliver high-quality, innovative solutions.
   </p>
   
-  <br/> 
+  <br/>
 
   📫 You can contact me at [dev.francisjacob@gmail.com](mailto:dev.francisjacob@gmail.com)
   
